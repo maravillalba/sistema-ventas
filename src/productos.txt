@@ -1,0 +1,10 @@
+Módulo de productos
+
+El sistema permitirá registrar y gestionar productos de indumentaria
+
+Datos principales:
+- Nombre
+- Categoría
+- Talle
+- Precio
+- Stock
