@@ -8,3 +8,9 @@ Datos principales:
 - DNI
 - Teléfono
 - Correo electrónico
+
+Operaciones previstas:
+- Registrar cliente
+- Consultar cliente
+- Modificar datos del cliente
+- Eliminar cliente
