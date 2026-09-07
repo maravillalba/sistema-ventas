@@ -193,6 +193,8 @@ Se documentarán, entre otras cosas:
 
 La intención es que el repositorio no solamente contenga el código del proyecto, sino que también permita visualizar **cómo fue evolucionando el proyecto desde su planificación hasta su implementación final**.
 
+Se trabajó sobre la definición de la arquitectura del Sistema de Gestión de Ventas. Se analizaron dos alternativas: arquitectura monolítica en capas y arquitectura basada en microservicios. Luego del análisis de los trade-offs, se decidió utilizar una arquitectura monolítica en capas, considerando el alcance actual y el tamaño del equipo.
+
 ---
 
 ## 🎓 Relación con el Proyecto Integrador
