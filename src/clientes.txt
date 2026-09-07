@@ -1,0 +1,16 @@
+Módulo de clientes
+
+El sistema permitirá registrar y gestionar clientes que realicen compras de indumentaria
+
+Datos principales:
+- Nombre
+- Apellido
+- DNI
+- Teléfono
+- Correo electrónico
+
+Operaciones previstas:
+- Registrar cliente
+- Consultar cliente
+- Modificar datos del cliente
+- Eliminar cliente
