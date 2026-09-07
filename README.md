@@ -4,7 +4,7 @@ Sistema destinado a la gestión de ventas de un comercio de indumentaria.
 
 ## Objetivo
 
-El proyecto busca brindar una solución para gestionar productos, clientes y ventas de manera organizada.
+El proyecto busca brindar una solución para gestionar productos de indumentaria y controlar su stock de manera organizada.
 
 ## Estructura del proyecto
 

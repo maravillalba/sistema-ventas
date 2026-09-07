@@ -1,0 +1,16 @@
+Módulo de productos
+
+El sistema permitirá registrar y gestionar productos de indumentaria
+
+Datos principales:
+- Nombre
+- Categoría
+- Talle
+- Precio
+- Stock
+
+Operaciones previstas:
+- Registrar producto
+- Consultar producto
+- Modificar producto
+- Actualizar stock
